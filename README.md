@@ -1,21 +1,21 @@
-# Hi there, I'm Raevaen! 👋
+# Hi there, I'm Emanuele! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a bit about me:
 
 ## 🚀 About Me
 
-- 💻 Software Developer with a focus on web development and open-source projects.
+- 💻 Software Engineer with a focus on web API development and open-source projects.
 - 📚 Always eager to learn new technologies and improve my skills.
-- 🔧 Experienced in Python, JavaScript, and React.
-- 🌱 Currently learning more about cloud computing and DevOps practices.
+- 🔧 Experienced in .NET, Javascript and Python.
+- 🌱 Currently delving deeper into cloud computing, AI and DevOps practices.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
-- **Databases**: PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
+- **Languages**: C#, Python, JavaScript, HTML, CSS, Bash
+- **Frameworks**: .NET, React, Node.js
+- **Tools**: Git, Docker, VS Code, shell scripting
+- **Databases**: PostgreSQL, MongoDB, T-SQL
+- **Cloud**: Azure
 
 ## 📈 GitHub Stats
 
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 📫 How to Reach Me
 
-- **Email**: [raevaen@example.com](mailto:raevaen@example.com)
-- **LinkedIn**: [Raevaen](https://www.linkedin.com/in/raevaen/)
-- **Website**: [raevaen.dev](https://raevaen.dev)
+- **Email**: [raevaen@example.com](mailto:xvcicciox@live.com)
+- **LinkedIn**: [Raevaen](https://www.linkedin.com/in/raevaen/) NA
+- **Website**: [raevaen.dev](https://raevaen.dev)WIP
 
 ## 💬 Let's Connect
 
