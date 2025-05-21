@@ -1,6 +1,6 @@
 # Hi there, I'm Emanuele! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a bit about me:
+Welcome to my GitHub profile! I'm passionate about coding, technology, and yoga. Here's a bit about me:
 
 ## 🚀 About Me
 
@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C#, Python, JavaScript, HTML, CSS, Bash
-- **Frameworks**: .NET, React, Node.js
-- **Tools**: Git, Docker, VS Code, shell scripting
-- **Databases**: PostgreSQL, MongoDB, T-SQL
+- **Languages**: C#, Python, JavaScript, HTML, CSS, Bash, YAML, PlantUML
+- **Frameworks**: .NET, React, Node.js, Next.js
+- **Tools**: Git, Docker, Visual studio, VS Code, shell scripting
+- **Databases**: PostgreSQL, MongoDB, T-SQL, MySQL, Redis
 - **Cloud**: Azure
 
 ## 📈 GitHub Stats
