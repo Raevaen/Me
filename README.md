@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and yoga.
 - 🔧 Experienced in .NET, Typescript/Javascript, Python, bash, and git.
 - 🌱 Currently delving deeper into cloud computing, AI, and DevOps practices.
 - 🧘🏻‍♂️ Enjoying yoga in the parks and teaching it in the summer when the sun shines
+- 🏆 [Credly](https://www.credly.com/users/emanuele-de-matteis/badges#credly)
 
 ## 🛠️ Technologies & Tools
 
