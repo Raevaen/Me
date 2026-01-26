@@ -43,7 +43,6 @@ PlantUML
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#),
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 - **Cloud**: [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-- **Programming Approaches**: OOP, CI/CD, TDD, DDD, event-driven design, MVC and Pub/Sub architectures, SOLID, Scrum
 
 ## 📈 GitHub Stats
 
